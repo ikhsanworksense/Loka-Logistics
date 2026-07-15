@@ -1,0 +1,6 @@
+{
+  "name": "Loka Logistics",
+  "description": "Loka ERP Logistics Analytics Dashboard with deep monitoring, scheduling, and insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
